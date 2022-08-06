@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// int a;
+// a = int.Parse(Console.ReadLine());
+// char b = Convert.ToChar(a);
+// Console.WriteLine(a);
+
+// Console.WriteLine($"{b}");

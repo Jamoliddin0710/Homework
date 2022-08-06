@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jamoliddin/netbootcamp/Problem/masala13/masala13.csproj",
+      "projectUniqueName": "/home/jamoliddin/netbootcamp/Problem/Homework/masala13/masala13.csproj",
       "projectName": "masala13",
-      "projectPath": "/home/jamoliddin/netbootcamp/Problem/masala13/masala13.csproj",
+      "projectPath": "/home/jamoliddin/netbootcamp/Problem/Homework/masala13/masala13.csproj",
       "packagesPath": "/home/jamoliddin/.nuget/packages/",
-      "outputPath": "/home/jamoliddin/netbootcamp/Problem/masala13/obj/",
+      "outputPath": "/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jamoliddin/.nuget/NuGet/NuGet.Config"

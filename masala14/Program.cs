@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var a = Double.Parse(Console.ReadLine());
+Console.WriteLine($"{a:F0}");
+Console.WriteLine(Math.Round(a));

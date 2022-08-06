@@ -1,0 +1,15 @@
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/bin/Debug/net6.0/masala13
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/bin/Debug/net6.0/masala13.deps.json
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/bin/Debug/net6.0/masala13.runtimeconfig.json
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/bin/Debug/net6.0/masala13.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/bin/Debug/net6.0/masala13.pdb
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.csproj.AssemblyReference.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.AssemblyInfoInputs.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.AssemblyInfo.cs
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.csproj.CoreCompileInputs.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/refint/masala13.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.pdb
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/masala13.genruntimeconfig.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala13/obj/Debug/net6.0/ref/masala13.dll

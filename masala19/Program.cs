@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var a = int.Parse(Console.ReadLine());
+Console.WriteLine($"{a/100%10}");
