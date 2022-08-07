@@ -1,0 +1,15 @@
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/bin/Debug/net6.0/masala40
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/bin/Debug/net6.0/masala40.deps.json
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/bin/Debug/net6.0/masala40.runtimeconfig.json
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/bin/Debug/net6.0/masala40.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/bin/Debug/net6.0/masala40.pdb
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.csproj.AssemblyReference.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.AssemblyInfoInputs.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.AssemblyInfo.cs
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.csproj.CoreCompileInputs.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/refint/masala40.dll
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.pdb
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/masala40.genruntimeconfig.cache
+/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/Debug/net6.0/ref/masala40.dll

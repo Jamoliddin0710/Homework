@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var num = Console.ReadLine().
+Split(' ',StringSplitOptions.RemoveEmptyEntries).Select(ulong.Parse).ToArray();
+
+System.Console.WriteLine
+(Math.Pow(num[0],3) + Math.Pow(num[1],3) + Math.Pow(num[2],3));

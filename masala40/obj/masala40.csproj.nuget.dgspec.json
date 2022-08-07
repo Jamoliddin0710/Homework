@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jamoliddin/netbootcamp/Problem/masala40/masala40.csproj": {}
+    "/home/jamoliddin/netbootcamp/Problem/Homework/masala40/masala40.csproj": {}
   },
   "projects": {
-    "/home/jamoliddin/netbootcamp/Problem/masala40/masala40.csproj": {
+    "/home/jamoliddin/netbootcamp/Problem/Homework/masala40/masala40.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jamoliddin/netbootcamp/Problem/masala40/masala40.csproj",
+        "projectUniqueName": "/home/jamoliddin/netbootcamp/Problem/Homework/masala40/masala40.csproj",
         "projectName": "masala40",
-        "projectPath": "/home/jamoliddin/netbootcamp/Problem/masala40/masala40.csproj",
+        "projectPath": "/home/jamoliddin/netbootcamp/Problem/Homework/masala40/masala40.csproj",
         "packagesPath": "/home/jamoliddin/.nuget/packages/",
-        "outputPath": "/home/jamoliddin/netbootcamp/Problem/masala40/obj/",
+        "outputPath": "/home/jamoliddin/netbootcamp/Problem/Homework/masala40/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jamoliddin/.nuget/NuGet/NuGet.Config"
