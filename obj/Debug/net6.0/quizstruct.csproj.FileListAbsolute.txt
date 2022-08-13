@@ -1,0 +1,15 @@
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.csproj.AssemblyReference.cache
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.AssemblyInfoInputs.cache
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.AssemblyInfo.cs
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.csproj.CoreCompileInputs.cache
+/home/jamoliddin/netbootcamp/Problem/quizstruct/bin/Debug/net6.0/quizstruct
+/home/jamoliddin/netbootcamp/Problem/quizstruct/bin/Debug/net6.0/quizstruct.deps.json
+/home/jamoliddin/netbootcamp/Problem/quizstruct/bin/Debug/net6.0/quizstruct.runtimeconfig.json
+/home/jamoliddin/netbootcamp/Problem/quizstruct/bin/Debug/net6.0/quizstruct.dll
+/home/jamoliddin/netbootcamp/Problem/quizstruct/bin/Debug/net6.0/quizstruct.pdb
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.dll
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/refint/quizstruct.dll
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.pdb
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/quizstruct.genruntimeconfig.cache
+/home/jamoliddin/netbootcamp/Problem/quizstruct/obj/Debug/net6.0/ref/quizstruct.dll
